@@ -1,0 +1,14 @@
+.login-btn{
+    position: absolute;
+    margin-top:3%;
+    right: 0%;
+    top: 0%;
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+    transform: translateX(-50%);
+    -ms-transform: translateX(-50%);
+    border-radius: 12px !important;
+    overflow: hidden;
+    zoom: 1.5;
+    -moz-transform: scale(1.5) translateX(-40%); /*Mozilla */
+}
